@@ -20,9 +20,6 @@ github_username: "Vassily-Petrousevitch"
 #########################################################################################
 theme: "minima"
 
-minima:
-  skin: dark
-
 rss: rss
 
 kramdown:
