@@ -18,8 +18,6 @@ github_username: "Vassily-Petrousevitch"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote-theme: jekyll/minima
-
 rss: rss
 
 kramdown:
@@ -29,6 +27,9 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
+
+theme: minima
 
 titles_from_headings:
   strip_title: true
