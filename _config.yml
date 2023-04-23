@@ -29,7 +29,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 
-remote_theme: pages-themes/midnight@v0.2.0
+theme: minima
 
 titles_from_headings:
   strip_title: true
