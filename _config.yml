@@ -20,9 +20,6 @@ github_username: "Vassily-Petrousevitch"
 #########################################################################################
 remote_theme: jekyll/minima@3cdd14d
 
-minima:
-  skin: dark
-
 
 rss: rss
 
