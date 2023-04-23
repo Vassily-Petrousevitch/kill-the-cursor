@@ -18,7 +18,7 @@ github_username: "Vassily-Petrousevitch"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+remote-theme: jekyll/minima
 
 rss: rss
 
